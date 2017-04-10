@@ -1,1 +1,2 @@
 hatsuyuki's git repository test
+version:0.01
